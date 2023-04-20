@@ -1,4 +1,0 @@
-#非HK或者TW代理的线路
-##针对openai封锁禁止CN IP
-DOMAIN-SUFFIX,openai.com
-DOMAIN-KEYWORD,openai
