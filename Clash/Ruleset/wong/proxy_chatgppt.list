@@ -5,3 +5,5 @@ DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,bing.com
 ##slack
 DOMAIN-SUFFIX,anthopic.com
+##claude
+DOMAIN-SUFFIX,claude.ai
