@@ -1,5 +1,6 @@
 ##openai
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-KEYWORD,openai
 ##new bing
 DOMAIN-SUFFIX,bing.com
