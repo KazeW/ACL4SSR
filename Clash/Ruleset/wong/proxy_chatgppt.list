@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-KEYWORD,openai
 ##new bing
 DOMAIN-SUFFIX,bing.com
+DOMAIN-KEYWORD,copilot.microsoft.com
 ##slack
 DOMAIN-SUFFIX,anthopic.com
 ##claude
