@@ -10,3 +10,5 @@ DOMAIN,location.microsoft.com
 DOMAIN-SUFFIX,anthopic.com
 ##claude
 DOMAIN-SUFFIX,claude.ai
+#gemini
+DOMAIN-KEYWORD,gemini
